@@ -2,7 +2,7 @@
   "name": "kubeless-runtime",
   "version": "1.0.1",
   "license": "Apache-2.0",
-  "main": "./dist/index.js",
+  "main": "./dist/app.js",
   "scripts": {
     "start": "kiwi start",
     "test": "kiwi test",

@@ -1,0 +1,5 @@
+./*
+!./dist/
+!./kiwi.sh
+!./package.json
+!./yarn.lock
