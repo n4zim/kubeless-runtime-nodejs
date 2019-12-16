@@ -222,7 +222,7 @@ export class App {
             console.error("CRITICAL: Unable to stop spawned process. Exiting")
             process.exit(1)
           } else {
-            this.handleError(err, res, this.funcLabel, end)
+            this.handleError(err, res, label, end)
           }
         }
       }
